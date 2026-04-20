@@ -7,3 +7,6 @@ ETC_data_files
 .*
 Apr2026_MissionPlan
 __pycache__
+animations
+*.mp4
+obsolete
