@@ -1,0 +1,9 @@
+*.pdf
+ExposureTimeCalc.ipynb
+roman_opsim
+ETC_data_files
+*.zip
+*SIMLIB*
+.*
+Apr2026_MissionPlan
+__pycache__
